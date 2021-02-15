@@ -1,5 +1,3 @@
-<h1><center>SEALvirus</center></h1>
-
 ![SEALvirus](README.assets/SEALvirus.png)
 
 -----
